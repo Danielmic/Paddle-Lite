@@ -41,7 +41,7 @@ message(STATUS "AR tools: ${CMAKE_AR}")
 if(NOT APPLE)
     set(CMAKE_SHARED_LINKER_FLAGS "${CMAKE_SHARED_LINKER_FLAGS} -Wl,--as-needed")
 endif()
-
+# frgrgerg
 if(WIN32)
     option(MSVC_STATIC_CRT "use static C Runtime library by default" ON)
 
