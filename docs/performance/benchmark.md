@@ -147,3 +147,6 @@
 
 ## 颖脉 NNA 的性能数据
 请参考 [Paddle Lite 使用颖脉 NNA 预测部署](../demo_guides/imagination_nna)的最新性能数据
+
+## 寒武纪思元 NPU 的性能数据
+请参考 [Padlle Lite 使用寒武纪思元 NPU 预测部署](../demo_guides/cambricon_mlu)的最新性能数据

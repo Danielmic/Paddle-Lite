@@ -81,6 +81,7 @@ Welcome to Paddle-Lite's documentation!
   demo_guides/verisilicon_timvx
   demo_guides/mediatek_apu
   demo_guides/imagination_nna
+  demo_guides/cambricon_mlu
   demo_guides/bitmain
   demo_guides/intel_fpga
 
